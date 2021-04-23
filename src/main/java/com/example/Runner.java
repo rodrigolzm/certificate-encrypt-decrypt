@@ -22,7 +22,7 @@ public class Runner {
 		try {
 
 			String keyStore = "keystore";
-			String keyStorePass = "company";
+			String keyStorePass = "mariner";
 			
 			byte[] message = "My.Very_Strong_Password1!".getBytes("UTF-8");
 
